@@ -22,3 +22,7 @@ __pycache__/
 .pytest_cache/
 
 .DS_Store
+
+# Generated Vercel Workflow files
+.workflow-data/
+frontend/app/.well-known/workflow/
