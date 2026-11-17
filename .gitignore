@@ -1,0 +1,24 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.envrc
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Next.js and Vercel
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+.vercel/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+.DS_Store
