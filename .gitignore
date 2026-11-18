@@ -26,3 +26,7 @@ __pycache__/
 # Generated Vercel Workflow files
 .workflow-data/
 frontend/app/.well-known/workflow/
+
+# Local project guides
+/docs/project-explained.md
+/docs/Sourceleaf_Project_Guide.docx
